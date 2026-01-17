@@ -1,4 +1,20 @@
 # Blood-Glucose-Prediction
 Blood glucose level estimation using diet intake, insulin dosage, and activity level with data analysis and machine learning models.<br>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/bhavanabiju098-dot/Blood-Glucose-Prediction/blob/main/Blood_Glucose_Prediction.ipynb)
+
+## Blood Glucose Level Prediction
+
+This project predicts blood glucose levels using:
+- Carbohydrate intake
+- Insulin dosage
+- Physical activity level
+
+Machine learning models implemented:
+- Linear Regression
+- Random Forest Regressor
+- Gradient Boosting Regressor
+
+The notebook includes:
+- Data preprocessing
+- Encoding of categorical variables
+- Model training and evaluation
+- Performance visualization
